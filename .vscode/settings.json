@@ -1,0 +1,12 @@
+{
+  "files.exclude": {
+    "README.md": true,
+    "vuex-playlist\\README.md": true,
+    "vuex-playlist\\package.json": true,
+    "vuex-playlist\\package-lock.json": true,
+    "vuex-playlist\\babel.config.js": true,
+    "vuex-playlist\\.gitignore": true,
+    ".vscode": true,
+    "vuex-playlist\\node_modules": true
+  }
+}
